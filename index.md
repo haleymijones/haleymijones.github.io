@@ -1,6 +1,6 @@
 ## About Me
 
-What's up? hey\|you
+Hi
 
 I am an awesome student at Lehigh, you should hire me!
 
