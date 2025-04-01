@@ -4,19 +4,12 @@ Hi
 
 I am an awesome student at Lehigh, you should hire me!
 
-<!-- Upload your own photo and change the path -->
-
-<p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
-</p>
-
----
 
 ## Portfolio
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
+_**[10k Sentiment Analysis - Midterm Report](subpages/report)**_
 
 You can show off your midterm analysis by moving the report components and output into this file. Or...
 
