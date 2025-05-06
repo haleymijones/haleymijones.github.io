@@ -37,6 +37,7 @@ This semester-long project analyzes how Google could implement stablecoins (digi
 Shout out to my awesome professor, Don Bowen III, for his guidance in this course and my FinTech capstone!
 
 <img src="images/bowen.jpg?raw=true"/>
+
 ---
 
 ## Career Objectives
