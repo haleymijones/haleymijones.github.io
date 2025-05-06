@@ -4,10 +4,10 @@ I am a senior graduating from Lehigh University with a major in Finance and a mi
 
 Read more about my work from my Advanced Investment Data Science for Finance course, and more, below!
 
+---
 
 ## Portfolio
 
-<!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
 _**[10k Sentiment Analysis - Midterm Report](report.md)**_
 
