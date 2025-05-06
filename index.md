@@ -24,6 +24,7 @@ Our project investigated financial market responses to Federal Reserve communica
 
 <img src="images/powell.jpg?raw=true"/>
 
+
 ---
 
 _**[Stablecoin Integration Opportunities for Google - FinTech Capstone](/pdf/stablecoin_presentation.pdf)**_
@@ -32,6 +33,10 @@ This semester-long project analyzes how Google could implement stablecoins (digi
 
 <img src="images/google.jpg?raw=true"/>
 
+---
+Shout out to my awesome professor, Don Bowen III, for his guidance in this course and my FinTech capstone!
+
+<img src="images/bowen.jpg?raw=true"/>
 ---
 
 ## Career Objectives
