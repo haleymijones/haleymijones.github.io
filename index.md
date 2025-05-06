@@ -11,29 +11,26 @@ Read more about my work from my Advanced Investment Data Science for Finance cou
 
 _**[10k Sentiment Analysis - Midterm Report](report.md)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
+Read about my 10-K Sentiment Analysis project!
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/sentiment.jpg?raw=true"/>
 
----
-
-_**[Regression Practice](Regression_practice)**_
-
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
+_**[Market Reactions to FED Announcements - Final Project](https://github.com/jonahnathan0/Fed_Announcements)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Our project investigated financial market responses to Federal Reserve communications through sentiment analysis of FOMC announcements and minutes from 2000-2024, using both traditional dictionaries and GPT-4 to classify statements as bearish, neutral, or bullish. The research revealed that bearish sentiment in Fed communications creates more market volatility than neutral or bullish statements, with a noticeable pattern of market declines immediately following announcements followed by a recovery period. The analysis also found stronger correlation between positive sentiment and positive returns in the days leading up to announcements compared to weaker correlations post-announcement, suggesting anticipatory market behavior.
+
+<img src="images/powell.jpg?raw=true"/>
 
 ---
 
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
+_**[Stablecoin Integration Opportunities for Google - FinTech Capstone](/pdf/stablecoin_presentation.pdf)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+This semester-long project analyzes how Google could implement stablecoins (digital assets typically backed by dollar-denominated assets) across its operations to reduce transaction costs and improve efficiency. We explore broader applications beyond consumer payments, including B2B merchant settlements, supplier payments, treasury management, and Google Pay integration, all of which could strengthen Google's position in the digital payments marketplace while delivering near-instantaneous settlement for international transactions. 
+
+<img src="images/google.jpg?raw=true"/>
 
 ---
 
