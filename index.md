@@ -1,8 +1,8 @@
 ## About Me
 
-Hi
+I am a senior graduating from Lehigh University with a major in Finance and a minor in FinTech. I will be joining Morgan Stanley in Los Angeles with an Investment Management role after graduating in May. I currently hold a position as a Collegiate Advisor for XDAO to promote no-code DAO building for a more accessible Web-3 community! 
 
-I am an awesome student at Lehigh, you should hire me!
+Read more about my work from my Advanced Investment Data Science for Finance course, and more, below!
 
 
 ## Portfolio
@@ -39,15 +39,19 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+I am passionate about leveraging financial technology to develop innovative solutions that enhance financial inclusion and market efficiency. My goal is to build a career at the intersection of finance and technology, where I can apply my analytical skills and programming knowledge to transform traditional financial services and create value for both organizations and their customers.
 
 ---
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+I enjoy:
+- Blockchain and cryptocurrency exploration
+- Introducing people to the world of Web-3
+- Attending fintech meetups, hackathons, and conferences
+- Learning new programming languages specifically used in financial analysis (Python, R)
+- Golfing
+- Cooking and baking!
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
