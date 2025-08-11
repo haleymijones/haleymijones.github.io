@@ -44,7 +44,7 @@ From working with the Watermark Group off and on throughout school breaks, I was
 
 ---
 
-Shout out to my awesome professor, Don Bowen III, for his guidance in this course and my FinTech capstone!
+Shout out to my awesome professor, Don Bowen III, for his guidance in my favorite Python course and my FinTech capstone!
 
 <img src="images/bowen.jpg?raw=true"/>
 
