@@ -34,11 +34,21 @@ This semester-long project analyzes how Google could implement stablecoins (digi
 <img src="images/google.jpg?raw=true"/>
 
 ---
+
+_**[Century City Investment Memorandum](/pdf/investment_memo.pdf)**_
+
+This semester-long project analyzes how Google could implement stablecoins (digital assets typically backed by dollar-denominated assets) across its operations to reduce transaction costs and improve efficiency. We explore broader applications beyond consumer payments, including B2B merchant settlements, supplier payments, treasury management, and Google Pay integration, all of which could strengthen Google's position in the digital payments marketplace while delivering near-instantaneous settlement for international transactions. 
+
+<img src="images/cc.jpeg?raw=true"/>
+
+---
+
 Shout out to my awesome professor, Don Bowen III, for his guidance in this course and my FinTech capstone!
 
 <img src="images/bowen.jpg?raw=true"/>
 
 ---
+
 
 ## Career Objectives
 
