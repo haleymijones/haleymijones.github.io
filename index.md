@@ -37,7 +37,8 @@ This semester-long project analyzes how Google could implement stablecoins (digi
 
 _**[Century City Investment Memorandum](/pdf/investment_memo.pdf)**_
 
-This semester-long project analyzes how Google could implement stablecoins (digital assets typically backed by dollar-denominated assets) across its operations to reduce transaction costs and improve efficiency. We explore broader applications beyond consumer payments, including B2B merchant settlements, supplier payments, treasury management, and Google Pay integration, all of which could strengthen Google's position in the digital payments marketplace while delivering near-instantaneous settlement for international transactions. 
+From working with the Watermark Group off and on throughout school breaks, I was able to contribute meaningfully to the underwriting and analysis of a $14M+ apartment acquisition in Century City, CA. I developed pro forma financials, structured investor returns, and created this  investment memorandum used for capital raising. Check out the deck here!
+ 
 
 <img src="images/cc.jpeg?raw=true"/>
 
